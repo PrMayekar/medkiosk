@@ -1,0 +1,11 @@
+.env
+.env.local
+.env.*.local
+node_modules
+dist
+.vercel
+.netlify
+.tsbuild-node
+*.tsbuildinfo
+*.log
+.DS_Store
